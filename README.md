@@ -1,6 +1,9 @@
 # WA-Hosting Bot
 This is a whatsapp bot that allows you to create a free website and also allows to interact with an FTP server right from your chat. With this bot, you can easily upload and download files, view the contents of a directory, and perform other common FTP tasks.
 
+### Get Started
+Message the bot on whatsapp by ([clicking here (Message Bot)](https://wa.me/2348149076618))
+
 ### Features
 1. Create a free website (1 per Whatsapp Account)<br>
 2. Connect to your website FTP server <br>
@@ -37,4 +40,4 @@ We welcome contributions to the WA-Hosting Bot! If you have an idea for a new fe
 The WA-HOSTING Bot is released under the MIT License. See LICENSE for more details.
 
 
-#Developed by amosayomide05
+# Developed by amosayomide05
