@@ -2,7 +2,7 @@
 This is a whatsapp bot that allows you to create a free website and also allows to interact with an FTP server right from your chat. With this bot, you can easily upload and download files, view the contents of a directory, and perform other common FTP tasks.
 
 ### Get Started
-Message the bot on whatsapp by ([clicking here (Message Bot)](https://wa.me/2348149076618))
+Message the bot on whatsapp by ([clicking here (Message Bot)](https://wa.me/2348149076618)) and send `Hello` or `/help`
 
 ### Features
 1. Create a free website (1 per Whatsapp Account)<br>
