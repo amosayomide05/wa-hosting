@@ -40,4 +40,9 @@ We welcome contributions to the WA-Hosting Bot! If you have an idea for a new fe
 The WA-HOSTING Bot is released under the MIT License. See LICENSE for more details.
 
 
+<p align="center"><br>
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Famoayomide05%2Fchatgpt-whatsapp-bot&s=80&c=00ff00&bg=00000000&no=5&ff=digi" alt="visits">
+</p>
+
+
 # Developed by amosayomide05
